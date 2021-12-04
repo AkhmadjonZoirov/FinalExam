@@ -1,0 +1,41 @@
+.footer {
+    background-image: url("../../images/Mask\ \(1\).png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 329px;
+    position: sticky;
+    &__main {
+        display: flex;
+        justify-content: space-between;
+        color: white;
+        margin-top: auto;
+        padding: 25px 0;
+    }
+
+    &__secondary {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 15px 0;
+    }
+
+    &__secondary-container {
+        background-color: #333A44;
+        bottom: 0;
+    }
+    &__img {
+        width: 183.64px;
+        height: 56px;
+        border-radius: 5px;   
+    }
+
+    &__buttons {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+}
+.sign-up {
+    width: 418.75px;
+    font-size: 48px;
+}

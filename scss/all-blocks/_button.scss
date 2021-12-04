@@ -1,0 +1,35 @@
+.button {
+    width: 180px;
+    height: 53px;
+    background-color: #FCB72B;
+    color: #ffff;
+    border: none;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.main-btn {
+    margin-left: 260px;
+    margin-top: 40px;
+}
+.google-play {
+    width: 160.44px;
+    height: 56px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 5px;
+    background-color: #E5ECF4;
+    border: none;
+    margin-left: 10px;
+
+}
+
+.app-store {
+    width: 183.64px;
+    height: 56px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 5px;
+    background-color: #E5ECF4;
+    border: none;
+}
